@@ -1,0 +1,9 @@
+http://localhost:90/index.php/welcome/create
+
+http://localhost:90/index.php/welcome/lists
+
+controller : welcome
+
+views: create, index
+
+config: autoload, config
